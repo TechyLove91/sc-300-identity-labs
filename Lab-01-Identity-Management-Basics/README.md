@@ -16,7 +16,7 @@ Implement a basic identity management solution using Microsoft Entra ID by creat
 ## Screenshots
 
 ### Tenant Overview
-![Tenant Overview]([./screenshots/tenant-overview.png](https://github.com/TechyLove91/sc-300-identity-labs/blob/main/screenshots/tenant-overview.png?raw=true))
+![Tenant Overview](https://raw.githubusercontent.com/TechyLove91/sc-300-identity-labs/main/Lab-01-Identity-Management-Basics/screenshots/tenant-overview.png)
 
 ### Users Created
 ![Users Created](./screenshots/group-properties.png)
