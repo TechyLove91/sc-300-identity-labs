@@ -30,6 +30,12 @@ Implement a basic identity management solution using Microsoft Entra ID by creat
 - User and group provisioning
 - Group-based access control
 
+## Skills Demonstrated
+- Microsoft Entra ID (Azure AD) tenant navigation and identity administration
+- User lifecycle management (create/test accounts)
+- Security group creation and access organization
+- Lab documentation with evidence (screenshots) for portfolio readiness
+
 ## Lessons Learned
 - Entra ID tenants represent organizational identity boundaries
 - Groups simplify access management
