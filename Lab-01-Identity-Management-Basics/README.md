@@ -22,7 +22,8 @@ Implement a basic identity management solution using Microsoft Entra ID by creat
 ![Users Created](group-properties.png)
 
 ### Security Group Created
-![Group Created](created-group.png)
+![Security Group Created](created-group.png)
+
 
 ## Key Concepts Demonstrated
 - Identity lifecycle management
