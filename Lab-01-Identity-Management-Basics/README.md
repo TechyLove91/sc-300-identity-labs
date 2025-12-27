@@ -6,7 +6,7 @@ Implement a basic identity management solution using Microsoft Entra ID by creat
 ## Environment
 - Platform: Microsoft Entra ID (Azure AD)
 - Tenant Type: Workforce (Default Directory)
-- Domain: *.onmicrosoft.com
+- Domain: shesbrittanygmail.onmicrosoft.com
 
 ## Tasks Completed
 - Created and verified Microsoft Entra ID tenant
