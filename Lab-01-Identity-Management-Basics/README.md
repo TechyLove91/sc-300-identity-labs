@@ -19,7 +19,7 @@ Implement a basic identity management solution using Microsoft Entra ID by creat
 ![Tenant Overview](screenshots/tenant-overview.png)
 
 ### Users Created
-![Users Created](screenshots/users-created.png)
+![Users Created](screenshots/Group Properties.png)
 
 ### Security Group Created
 ![Group Created](screenshots/group-created.png)
