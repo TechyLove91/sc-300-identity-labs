@@ -42,5 +42,5 @@ Implement a basic identity management solution using Microsoft Entra ID by creat
 - Proper documentation is critical for troubleshooting and audits
 
 ## Next Steps
-- Enable MFA for users
-- Configure Conditional Access policies
+- Apply Multi-Factor Authentication (MFA) as a security control in a dedicated Conditional Access lab
+- Design and enforce Conditional Access policies aligned with Zero Trust principles
