@@ -39,7 +39,7 @@ All accounts were created exclusively for IAM lab testing and governance validat
 ## Evidence (Live Tenant Implementation)
 
 ### Administrative Unit Creation
-![NY Administrative Unit](screenshots/ny-adminunit-review.png)
+![NY Administrative Unit](https://github.com/TechyLove91/sc-300-identity-labs/blob/main/lab-02-delegated-administration/AU-Creation.png?raw=true)
 
 ### Administrative Unit Membership
 ![NY AU Users](https://github.com/TechyLove91/sc-300-identity-labs/blob/main/lab-02-delegated-administration/AU-Members.png?raw=true)
