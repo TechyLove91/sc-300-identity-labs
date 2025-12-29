@@ -42,7 +42,7 @@ All accounts were created exclusively for IAM lab testing and governance validat
 ![NY Administrative Unit](screenshots/ny-adminunit-review.png)
 
 ### Administrative Unit Membership
-![NY AU Users](screenshots/ny-au-users.png)
+![NY AU Users](https://github.com/TechyLove91/sc-300-identity-labs/blob/main/lab-02-delegated-administration/AU-Members.png?raw=true)
 
 ### Scoped Role Assignment
 ![Scoped User Administrator Assignment](https://github.com/TechyLove91/sc-300-identity-labs/blob/main/lab-02-delegated-administration/UserAdminRoleScopedtoAU.png?raw=true)
