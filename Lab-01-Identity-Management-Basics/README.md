@@ -22,7 +22,7 @@ Implement a basic identity management solution using Microsoft Entra ID by creat
 ![Security Goup Created](screenshots/created-group.png)
 
 ### Security Group Properties
-![Security Group Proerties](screenshots/group.proprties.png)
+![Security Group Proerties](screenshots/group-proprties.png)
 
 
 ## Key Concepts Demonstrated
