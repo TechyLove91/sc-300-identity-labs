@@ -16,13 +16,13 @@ Implement a basic identity management solution using Microsoft Entra ID by creat
 ## Screenshots
 
 ### Tenant Overview
-![Tenant Overview](https://github.com/TechyLove91/sc-300-identity-labs/blob/main/screenshots/tenant-overview.png?raw=true)
+![Tenant Overview](screenshots/tenant-overview.png)
 
 ### Security Group Created
-![Users Created](https://github.com/TechyLove91/sc-300-identity-labs/blob/main/created-group.png?raw=true)
+![Security Goup Created](created-group.png)
 
 ### Security Group Properties
-![Security Group Created](https://github.com/TechyLove91/sc-300-identity-labs/blob/main/group-properties.png?raw=true)
+![Security Group Proerties](group.proprties.png)
 
 
 ## Key Concepts Demonstrated
