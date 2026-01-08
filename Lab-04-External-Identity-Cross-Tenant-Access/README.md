@@ -3,28 +3,55 @@
 ## Overview
 This lab demonstrates hands-on experience configuring external identity collaboration and cross-tenant access controls in Microsoft Entra ID. The scenario focused on managing B2B collaboration settings, inviting and managing external users, and reviewing cross-tenant access and synchronization configurations.
 
-## Scenarios Completed
+---
 
-### External Collaboration Configuration
-- Reviewed and configured external collaboration settings
-- Evaluated guest user access restrictions and invitation permissions
+## Scenario 1 — External Collaboration Configuration
 
-### External User (B2B) Management
-- Invited an external user to the tenant
-- Validated guest account creation and user type
-- Reviewed guest user properties and access scope
+In this scenario, external collaboration settings were reviewed and evaluated to understand guest access scope, invitation permissions, and identity boundary controls.
 
-### Cross-Tenant Access Settings
-- Reviewed inbound and outbound cross-tenant access policies
-- Evaluated trust settings and access controls for partner tenants
+![External Collaboration Settings](screenshots/01-external-collaboration-settings.png)
 
-### Cross-Tenant Synchronization Review
-- Reviewed cross-tenant synchronization options and use cases
-- Analyzed identity lifecycle integration scenarios across tenants
+---
 
-### External Identity Providers Review
-- Navigated identity provider configuration options
-- Reviewed federation protocols including SAML and WS-Federation
+## Scenario 2 — External User (B2B) Invitation & Management
+
+An external user was invited to the tenant to simulate partner access onboarding. The guest account was validated and reviewed for correct identity type and properties.
+
+![Invite External User](screenshots/02-invite-external-user.png)
+
+![Guest User Created](screenshots/03-guest-user-created.png)
+
+![Guest User Properties](screenshots/04-guest-user-properties.png)
+
+---
+
+## Scenario 3 — Cross-Tenant Access Settings
+
+Cross-tenant access settings were reviewed to evaluate inbound and outbound trust boundaries and access policies between tenants.
+
+![Cross-Tenant Access Overview](screenshots/05-cross-tenant-settings.png)
+
+![Inbound and Outbound Policies](screenshots/06-inbound-outbound-policies.png)
+
+---
+
+## Scenario 4 — Cross-Tenant Synchronization Review
+
+Cross-tenant synchronization options were reviewed to understand identity lifecycle integration across multiple tenants.
+
+![Cross-Tenant Synchronization](screenshots/07-cross-tenant-sync.png)
+
+---
+
+## Scenario 5 — External Identity Providers Review
+
+External identity provider configuration options were reviewed, including federation protocols such as SAML and WS-Federation.
+
+![Identity Providers](screenshots/08-identity-providers.png)
+
+![SAML and WS-Fed Options](screenshots/09-saml-wsfed.png)
+
+---
 
 ## Skills Demonstrated
 - External identity and B2B collaboration management  
@@ -33,19 +60,7 @@ This lab demonstrates hands-on experience configuring external identity collabor
 - Multi-tenant identity architecture concepts  
 - Federation and identity provider awareness  
 
-## Tools & Technologies
-- Microsoft Entra ID (Azure AD)  
-- External Identities (B2B)  
-- Cross-Tenant Access Settings  
-- Identity Providers (SAML / WS-Fed)  
-
-## Evidence
-Screenshots documenting each phase of the lab are stored in the `/screenshots` directory, including:
-- External collaboration configuration  
-- Guest user invitation and management  
-- Cross-tenant access settings  
-- Identity provider configuration areas  
+---
 
 ## Why This Matters
 External identities represent one of the highest risk areas in modern environments. This lab demonstrates foundational skills required to securely manage partner access, enforce Zero Trust principles, and maintain strong identity boundaries across organizational tenants.
-
