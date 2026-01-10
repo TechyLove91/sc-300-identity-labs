@@ -1,7 +1,7 @@
 # Lab 04 — External Identity & Cross-Tenant Access Configuration
 
 ## Overview
-This lab demonstrates hands-on experience configuring external identity collaboration and cross-tenant access controls in Microsoft Entra ID. The scenario focused on managing B2B collaboration settings, inviting and managing external users, and reviewing cross-tenant access and synchronization configurations.
+This lab demonstrates hands-on experience configuring external identity collaboration and cross-tenant access controls in Microsoft Entra ID. The scenario focused on managing B2B collaboration settings, inviting and managing external users, and reviewing cross-tenant access configurations.
 
 ---
 
@@ -35,30 +35,6 @@ Cross-tenant access settings were reviewed to evaluate inbound and outbound trus
 
 ---
 
-## Scenario 4 — Cross-Tenant Synchronization Review
+## Scenario 4 — Identity Provider Review (Built-In)
 
-Cross-tenant synchronization options were reviewed to understand identity lifecycle integration across multiple tenants.
-
-![Cross-Tenant Synchronization](screenshots/07-cross-tenant-sync.png)
-
----
-
-## Scenario 5 — Identity Provider Review (Built-In)
-
-Available built-in identity providers were reviewed to understand supported external authentication options in the current tenant environment.
-
-![Identity Providers](screenshots/08-identity-providers.png)
-
----
-
-## Skills Demonstrated
-- External identity and B2B collaboration management  
-- Guest user lifecycle awareness  
-- Cross-tenant access policy understanding  
-- Multi-tenant identity architecture concepts  
-- External authentication surface area awareness  
-
----
-
-## Why This Matters
-External identities represent one of the highest risk areas in modern environments. This lab demonstrates foundational skills required to securely manage partner access, enforce Zero Trust principles, and maintain strong identity boundaries across organizational tenants.
+Available built-in identity providers were reviewed to understand supported external authentication options in the current ten
