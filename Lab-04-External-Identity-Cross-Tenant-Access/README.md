@@ -7,7 +7,7 @@ This lab demonstrates hands-on experience configuring external identity collabor
 
 ## Scenario 1 — External Collaboration Configuration
 
-In this scenario, external collaboration settings were reviewed and evaluated to understand guest access scope, invitation permissions, and identity boundary controls.
+External collaboration settings were reviewed to evaluate guest access scope, invitation permissions, and identity boundary controls.
 
 ![External Collaboration Settings](screenshots/01-external-collaboration-settings.png)
 
@@ -43,13 +43,11 @@ Cross-tenant synchronization options were reviewed to understand identity lifecy
 
 ---
 
-## Scenario 5 — External Identity Providers Review
+## Scenario 5 — Identity Provider Review (Built-In)
 
-External identity provider configuration options were reviewed, including federation protocols such as SAML and WS-Federation.
+Available built-in identity providers were reviewed to understand supported external authentication options in the current tenant environment.
 
 ![Identity Providers](screenshots/08-identity-providers.png)
-
-![SAML and WS-Fed Options](screenshots/09-saml-wsfed.png)
 
 ---
 
@@ -58,7 +56,7 @@ External identity provider configuration options were reviewed, including federa
 - Guest user lifecycle awareness  
 - Cross-tenant access policy understanding  
 - Multi-tenant identity architecture concepts  
-- Federation and identity provider awareness  
+- External authentication surface area awareness  
 
 ---
 
