@@ -6,7 +6,8 @@ This repository contains hands-on identity and access management (IAM) labs alig
 - [Lab 01 – Identity Management Basics](Lab-01-Identity-Management-Basics/README.md)
 - [Lab 02 – Delegated Administration with Administrative Units](Lab-02-Delegated-Administration-with-Administrative-Units/README.md)
 - [Lab 03 – Entra User & Dynamic Group](Lab-03-Entra-User-Dynamic-Group/README.md)
-- [Lab 04 - 04-External-Identity-Cross-Tenant-Access](
+- [Lab 04 - External-Identity-Cross-Tenant-Access](Lab-04-External-Identity-Cross-Tenant-Access/README.md)
+
 
 
 ## Technologies Used
