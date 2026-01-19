@@ -37,4 +37,4 @@ Cross-tenant access settings were reviewed to evaluate inbound and outbound trus
 
 ## Scenario 4 — Identity Provider Review (Built-In)
 
-Available built-in identity providers were reviewed to understand supported external authentication options in the current ten
+Available built-in identity providers were reviewed to understand supported external authentication options in the current tenant.
