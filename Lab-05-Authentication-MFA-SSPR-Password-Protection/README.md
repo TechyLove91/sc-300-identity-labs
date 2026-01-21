@@ -73,13 +73,17 @@ Enable and scope the following to all users (or a test group):
 
 ## 🧪 Task 3: Configure Self-Service Password Reset (SSPR)
 
-Enable SSPR and require **Microsoft Authenticator** and **Email**.
+Configured Self-Service Password Reset using the modern Microsoft Entra converged policy model.  
+Authentication methods for SSPR are managed through **Authentication Methods policies**, as legacy SSPR authentication settings have been deprecated.
+
+### Actions Performed
+- Enabled Self-Service Password Reset for selected users (test scope)
+- Required two authentication methods for password reset
+- Confirmed Microsoft Authenticator and Email OTP are enabled via Authentication Methods policies
 
 📸 **SSPR Enabled**
-
 ```markdown
 ![SSPR Enabled](screenshots/sspr-enabled.png)
-```
 
 ---
 
