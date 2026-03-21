@@ -14,7 +14,6 @@ MFA is prepared here and **enforced via Conditional Access in Lab 06**, aligning
 - Enable Microsoft Authenticator, Temporary Access Pass (TAP), and Email OTP
 - Deploy Self-Service Password Reset (SSPR)
 - Implement Microsoft Entra Password Protection
-- Validate configurations prior to Conditional Access enforcement
 
 ---
 
@@ -93,23 +92,6 @@ Enable **Enforced** mode, configure custom banned passwords, and smart lockout.
 ### 📸 Password Protection
 
 ![Password Protection](./screenshots/password-protection.png)
-
----
-
-## 🧪 Task 5: Validation & Testing
-
-Validate:
-
-- Authenticator registration / MFA prompt
-- SSPR flow
-- Weak password rejection
-- TAP onboarding  
-
-*MFA enforcement is completed in Lab 06 via Conditional Access.*
-
-### 📸 Validation
-
-![MFA Prompt](./screenshots/mfa-prompt.png)
 
 ---
 
