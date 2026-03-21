@@ -44,7 +44,7 @@ Navigate to **Protection → Authentication methods → Policies** and review en
 📸 **Authentication Methods Overview**
 
 ```markdown
-![Authentication Methods Overview](screenshots/auth-methods.png)
+![Authentication Methods Overview](./screenshots/auth-methods.png)
 ```
 
 ---
@@ -60,13 +60,13 @@ Enable and scope the following to all users (or a test group):
 📸 **Microsoft Authenticator**
 
 ```markdown
-![Authenticator Configuration](screenshots/authenticator-config.png)
+![Authenticator Configuration](./screenshots/authenticator-config.png)
 ```
 
 📸 **Temporary Access Pass**
 
 ```markdown
-![Temporary Access Pass](screenshots/tap-config.png)
+![Temporary Access Pass](./screenshots/tap-config.png)
 ```
 
 ---
@@ -83,7 +83,7 @@ Authentication methods for SSPR are managed through **Authentication Methods pol
 
 📸 **SSPR Enabled**
 ```markdown
-![SSPR Enabled](screenshots/sspr-enabled.png)
+![SSPR Enabled](./screenshots/sspr-enabled.png)
 
 ---
 
@@ -94,7 +94,7 @@ Enable **Enforced** mode, configure custom banned passwords, and smart lockout.
 📸 **Password Protection**
 
 ```markdown
-![Password Protection](screenshots/password-protection.png)
+![Password Protection](./screenshots/password-protection.png)
 ```
 
 ---
@@ -112,7 +112,7 @@ Validate:
 📸 **Validation**
 
 ```markdown
-![MFA Prompt](screenshots/mfa-prompt.png)
+![MFA Prompt](./screenshots/mfa-prompt.png)
 ```
 
 ---
