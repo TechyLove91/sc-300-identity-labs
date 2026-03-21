@@ -13,7 +13,7 @@ Each lab simulates real-world enterprise scenarios using Microsoft Entra ID and 
 - [Lab 03 – Entra User & Dynamic Group](Lab-03-Entra-User-Dynamic-Group/README.md)
 - [Lab 04 – External Identity Cross-Tenant Access](Lab-04-External-Identity-Cross-Tenant-Access/README.md)
 - [Lab 05 – Authentication, MFA, SSPR & Password Protection](Lab-05-Authentication-MFA-SSPR-Password-Protection/README.md)
-- - [Lab 06 – Conditional Access (Zero Trust)](Lab-06-Conditional-Access-Zero-Trust/README.md)
+- [Lab 06 – Conditional Access (Zero Trust)](Lab-06-Conditional-Access-Zero-Trust/README.md)
 
 ---
 
